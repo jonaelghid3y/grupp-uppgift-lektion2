@@ -14,7 +14,10 @@ function Hero() {
           count is {count}
       </button>
    
-        <button>Reset counter</button>
+       <button onClick={() => setCount((count) => count = 0)}>
+          Reset counter {}
+      </button>
+
       </div>
           
 
