@@ -36,4 +36,9 @@
 
 button {
 
+  margin: 10px;
+  border: none;
+  border-radius: 5px;
+  padding: 5px;
+
 }
