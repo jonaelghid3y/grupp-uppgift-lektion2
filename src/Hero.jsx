@@ -1,5 +1,6 @@
 
 import { useState } from 'react'
+import ClockFunctionComponent from './ClockFunctionComponent'
 
 
 
@@ -8,6 +9,7 @@ function Hero() {
   return (
     <div id="Hero">
       <h1>Hi there!</h1>
+      <ClockFunctionComponent />
       <div id="ButtonDiv">
 
       <button onClick={() => setCount((count) => count + 1)}>
