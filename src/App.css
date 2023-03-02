@@ -25,3 +25,15 @@
   background-color: tomato;
   height: 200px;
 }
+
+/* Emil */
+#ButtonDiv {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+button {
+
+}
