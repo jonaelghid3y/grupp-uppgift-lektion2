@@ -3,7 +3,25 @@
   margin: 0 auto;
   padding: 2rem;
   text-align: center;
+  
+}
+/*Freddan*/  
+#Hero{
+  background-color: skyblue;
+  height: 200px;
 }
 
+#Portfolio{
+  background-color: pink;
+  height: 200px;
+}
 
-  
+#About{
+  background-color: wheat;
+  height: 200px;
+}
+
+#Contact{
+  background-color: tomato;
+  height: 200px;
+}
